@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=user\ first
+comment0.target=User(java.lang.String,\ java.lang.String)
+comment0.text=\n\ This\ constructs\ a\ User\ object\ \n\ @param\ user's\ username\n\ @param\ user's\ first\ name\n
+comment1.params=
+comment1.target=java.lang.String\ getUserName()
+comment1.text=\n\ This\ returns\ the\ User's\ username\n\ @return\ username\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\n\ This\ returns\ the\ User's\ first\ name\n\ @return\ firstname\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ This\ returns\ a\ string\ representation\ of\ the\ User\ object\n\ @return\ string\ representing\ this\ User\ object\n
+comment4.params=other
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ This\ returns\ if\ this\ User\ object\ equals\ the\ other\ object\n\ Based\ on\ their\ user\ names\n\ @param\ other-\ the\ other\ User\ object\n\ @return\ if\ other\ is\ equal\ to\ this\ User\n
+comment5.params=other
+comment5.target=int\ compareTo(User)
+comment5.text=\n\ Returns\ the\ comparison\ of\ the\ other\ object\ to\ this\n\ User\ based\ on\ their\ Usernames.\n\ @param\ other-\ the\ other\ User\ object\n\ @return\ the\ integer\ comparison\ \n
+numComments=6

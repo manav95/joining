@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Node(java.lang.Object)
+comment1.params=
+comment1.target=java.lang.Object\ getData()
+comment1.text=\n\ gets\ the\ data\ inside\ the\ node\n\ @return\ the\ data\ inside\ of\ the\ node\n
+comment2.params=data
+comment2.target=void\ setData(java.lang.Object)
+comment2.text=\n\ sets\ the\ data\ of\ this\ node\n\ @param\ data\ the\ new\ value\ for\ data\n
+comment3.params=
+comment3.target=Node\ getLeft()
+comment3.text=\n\ gets\ the\ left\ child\ of\ this\ node\n\ @return\ the\ left\ child\n
+comment4.params=left
+comment4.target=void\ setLeft(Node)
+comment4.text=\n\ sets\ the\ left\ child\ of\ this\ node\n\ @param\ left\ the\ new\ left\ child\n
+comment5.params=
+comment5.target=Node\ getRight()
+comment5.text=\n\ gets\ the\ right\ child\ of\ this\ node\n\ @return\ the\ right\ child\n
+comment6.params=right
+comment6.target=void\ setRight(Node)
+comment6.text=\n\ sets\ the\ right\ child\ of\ this\ node\n\ @param\ right\ the\ new\ node\ on\ the\ right\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ recursively\ generates\ a\ string\ representation\ of\ the\ node\ and\ it's\ children\n
+numComments=8

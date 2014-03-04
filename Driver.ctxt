@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=tree\ user
+comment0.target=void\ addStuff(BST,\ User)
+comment0.text=\n\ This\ adds\ a\ new\ user\ to\ the\ tree\n\ @param\ tree-\ the\ tree\n\ @param\ user-\ the\ user\n
+comment1.params=tree\ data
+comment1.target=void\ removeStuff(BST,\ java.lang.String)
+comment1.text=\n\ This\ removes\ a\ user\ from\ the\ tree\n\ @param\ tree-\ the\ tree\n\ @param\ user-\ the\ user\n
+comment2.params=tree\ name
+comment2.target=java.lang.String\ findStuff(BST,\ java.lang.String)
+comment2.text=\n\ Returns\ a\ name\ given\ the\ appropriate\ username\n\ @param\ tree-\ the\ tree\n\ @param\ user-\ the\ user\n\ @return\ the\ name\n
+comment3.params=tree
+comment3.target=void\ listUsers(BST)
+comment3.text=\n\ This\ lists\ out\ the\ users\ and\ their\ usernames\n\ @param\ tree-\ the\ tree\n
+comment4.params=tree
+comment4.target=void\ debugStuff(BST)
+comment4.text=\n\ This\ lists\ out\ the\ entire\ tree\n\ @param\ tree-\ the\ tree\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
